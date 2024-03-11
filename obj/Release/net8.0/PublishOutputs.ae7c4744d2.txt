@@ -1,0 +1,14 @@
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\TodoApi.exe
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\TodoApi.dll
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\TodoApi.deps.json
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\TodoApi.runtimeconfig.json
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\TodoApi.pdb
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SEM-3\C#\ASP.NET-API\minimal-web-API\TodoApi\TodoApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
